@@ -7,4 +7,4 @@ if (allNames.indexOf(newName) === -1) {
 } else { 
 	console.log('error');
 }
-conosle.log(allNames);
+console.log(allNames);
